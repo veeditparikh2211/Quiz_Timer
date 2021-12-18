@@ -12,9 +12,11 @@ Javascript
 
 ## Website
 
+https://veeditparikh2211.github.io/Quiz_Timer/
 
 ## Application
-<img width="790" alt="Aplication Page" src="https://user-images.githubusercontent.com/5492869/146655703-3d1b02d7-e711-49d1-a58b-bfb8bb37ad82.PNG">
+
+<img width="441" alt="Application" src="https://user-images.githubusercontent.com/5492869/146656208-2c7cb414-6221-4653-8e81-c41d09edb23c.PNG">
 
 
 ## Contribution

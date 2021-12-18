@@ -1,0 +1,96 @@
+.h2 {
+    text-align: center;
+    margin: 20px 20px 0px 0px;
+}
+
+.nav-pills {
+    padding: 50px;
+}
+
+.row {
+    padding: 50px;
+}
+
+.row header {
+    margin: 20px;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 700px;
+    text-align: center;
+}
+
+.finish_page {
+    margin: 0 auto;
+    width: 900px;
+    visibility: hidden;
+}
+
+.answeralert {
+    text-align: center;
+}
+
+.displayhighscore {
+    text-align: center;
+}
+
+.Highscore {
+    margin: 0 auto;
+    visibility: hidden;
+}
+
+.all_btn {
+    background: cornflowerblue;
+    padding: 10px;
+    margin: 10px;
+    width: 30%;
+    border: 1px solid cornsilk;
+    border-radius: 5px;
+    color: white;
+    font-size: 1.em;
+    text-align: center;
+}
+
+.btn {
+    background: cornflowerblue;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid cornsilk;
+    border-radius: 10px;
+    color: white;
+    font-size: 1.em;
+}
+
+button {
+    background: cyan;
+}
+
+@media only screen and (min-width:320px) and (max-width:540px) {
+    .all_btn {
+        background: rgb(13, 218, 233);
+        padding: 10px;
+        margin: 20px;
+        width: 100%;
+        border: 1px solid cornsilk;
+        border-radius: 5px;
+        color: white;
+        font-size: 1.em;
+        text-align: center;
+    }
+    .wrapper {
+        margin: 0px;
+        text-align: justify;
+        width: 100%;
+    }
+    .finish_page {
+        margin: 0px;
+        width: 100%;
+        visibility: hidden;
+    }
+    .Highscore {
+        margin: 0px;
+        width: 100%;
+        visibility: hidden;
+    }
+}

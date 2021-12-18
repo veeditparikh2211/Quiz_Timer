@@ -14,7 +14,7 @@ Javascript
 
 
 ## Application
-![application page](D:\Classes\Week 4\Quiz_Timer\images\Aplication Page.PNG)
+![](images\Aplication Page.PNG)
 
 ## Contribution
 

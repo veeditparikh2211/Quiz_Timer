@@ -17,8 +17,13 @@
 
 .wrapper {
     margin: 0 auto;
+    background-color: lightblue;
     width: 700px;
     text-align: center;
+}
+
+.wrapper .container {
+    background-color: lightcoral;
 }
 
 .finish_page {

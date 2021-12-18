@@ -121,3 +121,8 @@ function start() {
     location.reload();
 
 }
+
+//function to clear the highscore
+// function clear() {
+//     initialAndScore.value = "";
+// }
